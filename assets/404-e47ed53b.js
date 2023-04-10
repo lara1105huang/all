@@ -1,0 +1,1 @@
+import{a1 as o,d as r,e as s,f as t}from"./index-188b1c29.js";const a={},c=t("h1",null,"404",-1);function l(n,e){return r(),s("div",null,[c,t("button",{onClick:e[0]||(e[0]=u=>n.$router.push("/"))},"回首頁")])}const d=o(a,[["render",l]]);export{d as default};
